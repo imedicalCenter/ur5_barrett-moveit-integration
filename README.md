@@ -3,6 +3,10 @@ In this repository, a guidance is given to run UR5 and Barrett hand in ROS envir
 
 **UR5+Barrett Hand/Ubuntu 16.04/ROS Kinetic  (Barrett Hand-Pcan-usb接口-PC)** 
 
+<center>
+<img src="UR5_barrett.jpg">
+</center>
+
 ##  setup Driver
 ###  1.Download UR5-related ros package
 ```
